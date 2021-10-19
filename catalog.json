@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Panda",
+    "description": "El panda, oso panda o panda gigante es una especie de mamífero del orden de los carnívoros. El estudio de su ADN lo engloba entre los miembros de la familia de los osos.",
+    "image_url": "https://raw.githubusercontent.com/RegoFp/fp/main/1.jpg"
+  },
+  {
+    "name": "Polar",
+    "description": "El oso polar es una especie de mamífero carnívoro de la familia de los osos. Es uno de los carnívoros terrestres más grandes de la Tierra. Vive en el medio polar.",
+    "image_url": "https://raw.githubusercontent.com/RegoFp/fp/main/2.jpg"
+  },
+  {
+    "name": "Pardo",
+    "description": "El oso pardo es una especie de mamífero carnívoro de la familia Ursidae propio de Eurasia y Norteamérica.",
+    "image_url": "https://raw.githubusercontent.com/RegoFp/fp/main/3.jpg"
+  },
+  {
+    "name": "Perezoso",
+    "description": "Los folívoros o filófagos  son un suborden de mamíferos placentarios del orden Pilosa, comúnmente conocidos como perezosos o pereza.",
+    "image_url": "https://raw.githubusercontent.com/RegoFp/fp/main/4.jpg"
+  },
+  {
+    "name": "Negro",
+    "description": "El oso negro es más pequeño que el oso pardo y el oso polar, presentando un color de piel más o menos oscuro. Tiene cuerpo robusto, cola corta, orejas pequeñas y redondas.",
+    "image_url": "https://raw.githubusercontent.com/RegoFp/fp/main/5.jpg"
+  }
+]
