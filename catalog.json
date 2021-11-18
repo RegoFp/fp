@@ -23,5 +23,30 @@
     "name": "Negro",
     "description": "El oso negro es más pequeño que el oso pardo y el oso polar, presentando un color de piel más o menos oscuro. Tiene cuerpo robusto, cola corta, orejas pequeñas y redondas.",
     "image_url": "https://raw.githubusercontent.com/RegoFp/fp/main/5.jpg"
+  },
+   {
+    "name": "Rana",
+    "description": "Es una rana.",
+    "image_url": "https://raw.githubusercontent.com/RegoFp/fp/main/6.jpg"
+  },
+   {
+    "name": "Gorila",
+    "description": "Es un gorila.",
+    "image_url": "https://raw.githubusercontent.com/RegoFp/fp/main/7.jpg"
+  },
+   {
+    "name": "Mapache",
+    "description": "Es un mapache",
+    "image_url": "https://raw.githubusercontent.com/RegoFp/fp/main/8.jpg"
+  },
+   {
+    "name": "Castor",
+    "description": "Es un castor",
+    "image_url": "https://raw.githubusercontent.com/RegoFp/fp/main/9.jpg"
+  },
+   {
+    "name": "Abeja",
+    "description": "Es una abeja",
+    "image_url": "https://raw.githubusercontent.com/RegoFp/fp/main/10.jpg"
   }
 ]
